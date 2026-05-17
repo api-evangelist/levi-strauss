@@ -5,7 +5,7 @@ description: >-
   and a global leader in jeanswear, designing and marketing jeans, casual wear,
   and related accessories under the Levi's, Dockers, Signature, and Denizen
   brands. The company does not publish a public developer API program.
-type: Company
+kind: company
 position: Producer
 access: 1st-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
