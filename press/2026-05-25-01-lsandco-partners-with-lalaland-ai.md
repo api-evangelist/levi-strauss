@@ -1,7 +1,9 @@
 ---
 title: LS&Co. Partners with Lalaland.ai
 url: https://www.levistrauss.com/2023/03/22/lsco-partners-with-lalaland-ai/
-date: '2026-05-25'
+published: '2023-03-22'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Levi Strauss" press release artificial intelligence'
 position: 1
 source: serpapi-google

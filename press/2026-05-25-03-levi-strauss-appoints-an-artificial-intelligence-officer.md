@@ -1,7 +1,9 @@
 ---
 title: Levi Strauss appoints an artificial intelligence officer
 url: https://www.retaildive.com/news/levi-strauss-appoints-an-artificial-intelligence-officer/548964/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Levi Strauss" press release artificial intelligence'
 position: 3
 source: serpapi-google

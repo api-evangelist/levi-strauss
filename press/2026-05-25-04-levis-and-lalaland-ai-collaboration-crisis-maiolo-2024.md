@@ -1,7 +1,9 @@
 ---
 title: Levi's and Lalaland.ai collaboration crisis - Maiolo - 2024
 url: https://onlinelibrary.wiley.com/doi/full/10.1111/1468-5973.12527
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Levi Strauss" press release artificial intelligence'
 position: 4
 source: serpapi-google
